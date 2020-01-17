@@ -10,7 +10,7 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path='/navbar' component={Navbar} />
+        <Route path='/' component={Navbar} />
         {/* <Route path='/turn' component={Turn} /> */}
       </Switch>
     </BrowserRouter>
