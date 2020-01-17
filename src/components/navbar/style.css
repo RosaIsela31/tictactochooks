@@ -1,0 +1,17 @@
+.navbar{
+  height: 8rem;
+  width: 100%;
+  background-color: #8EA604;
+  font-family: 'Paytone One', sans-serif;
+  color: #F8F3EC;
+  font-size: 2rem;
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+  align-items: flex-end;
+  
+}
+
+.img-cat{
+  height: 8rem;
+}

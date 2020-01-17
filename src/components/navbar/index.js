@@ -1,21 +1,20 @@
 import React from 'react';
-// import { Link } from 'react-router-dom'
+import cat from '../../img/cat.png';
+
+import './style.css';
+
 
 const Navbar = () => {
-
   return(
     <div>
-      <div>Hello</div>
-      {/* <Link to={'/turn'}> */}
-        <button>
-          redirect
-        </button>
-      {/* </Link> */}
+      <div className='navbar'>
+        <img alt='michi' src={cat} className='img-cat'/> 
+        <div>
+          Tic-Tac-Toc
+        </div>
+      </div>
     </div>
-
     )
-    
-
 }
 
 export default Navbar;
