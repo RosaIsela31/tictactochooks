@@ -1,14 +1,14 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import PlayView from './views/PlayView';
-// import Turn from './components/turn/index';
+import WelcomeView from './views/WelcomeView';
 
 function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path='/' component={PlayView} />
-        {/* <Route path='/turn' component={Turn} /> */}
+        <Route path='/play' component={PlayView} />
+        <Route path='/' component={WelcomeView} />
       </Switch>
     </BrowserRouter>
   );

@@ -1,5 +1,15 @@
 .square{  
   height: 10rem;
-  width: 10rem;  
+  width: 12rem;  
   border: 5px solid #E55812;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.icon{
+  font-size: 4rem;
+  color: #8EA604;
+  padding-top: 2.5rem;
 }
