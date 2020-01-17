@@ -4,3 +4,19 @@
   align-items: center;
   align-content: center;
 }
+
+.btn-start{
+  height: 4rem;
+  width: 10rem;
+  border-radius: 10px;
+  font-family: 'Paytone One', sans-serif;
+  background-color: #8EA604;
+  font-size: 1.5rem;
+}
+
+.container-btn-start{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
