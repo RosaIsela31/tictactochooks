@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/RosaIsela31/tictactochooks/static/css/main.d1b05096.chunk.css",
-    "main.js": "/RosaIsela31/tictactochooks/static/js/main.53c96987.chunk.js",
-    "main.js.map": "/RosaIsela31/tictactochooks/static/js/main.53c96987.chunk.js.map",
-    "runtime-main.js": "/RosaIsela31/tictactochooks/static/js/runtime-main.07a64639.js",
-    "runtime-main.js.map": "/RosaIsela31/tictactochooks/static/js/runtime-main.07a64639.js.map",
-    "static/js/2.c5bbb7bb.chunk.js": "/RosaIsela31/tictactochooks/static/js/2.c5bbb7bb.chunk.js",
-    "static/js/2.c5bbb7bb.chunk.js.map": "/RosaIsela31/tictactochooks/static/js/2.c5bbb7bb.chunk.js.map",
-    "index.html": "/RosaIsela31/tictactochooks/index.html",
-    "precache-manifest.c472468c1e458269e496510b5f3a260e.js": "/RosaIsela31/tictactochooks/precache-manifest.c472468c1e458269e496510b5f3a260e.js",
-    "service-worker.js": "/RosaIsela31/tictactochooks/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/RosaIsela31/tictactochooks/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.c5bbb7bb.chunk.js.LICENSE": "/RosaIsela31/tictactochooks/static/js/2.c5bbb7bb.chunk.js.LICENSE"
+    "main.css": "/tictactochooks/static/css/main.d012b061.chunk.css",
+    "main.js": "/tictactochooks/static/js/main.e4a49a22.chunk.js",
+    "main.js.map": "/tictactochooks/static/js/main.e4a49a22.chunk.js.map",
+    "runtime-main.js": "/tictactochooks/static/js/runtime-main.bcefc6d4.js",
+    "runtime-main.js.map": "/tictactochooks/static/js/runtime-main.bcefc6d4.js.map",
+    "static/js/2.79373781.chunk.js": "/tictactochooks/static/js/2.79373781.chunk.js",
+    "static/js/2.79373781.chunk.js.map": "/tictactochooks/static/js/2.79373781.chunk.js.map",
+    "index.html": "/tictactochooks/index.html",
+    "precache-manifest.9d00ffe92b5c08e16478defa95a6839c.js": "/tictactochooks/precache-manifest.9d00ffe92b5c08e16478defa95a6839c.js",
+    "service-worker.js": "/tictactochooks/service-worker.js",
+    "static/css/main.d012b061.chunk.css.map": "/tictactochooks/static/css/main.d012b061.chunk.css.map",
+    "static/js/2.79373781.chunk.js.LICENSE": "/tictactochooks/static/js/2.79373781.chunk.js.LICENSE",
+    "static/media/cat.png": "/tictactochooks/static/media/cat.b1538413.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.07a64639.js",
-    "static/js/2.c5bbb7bb.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.53c96987.chunk.js"
+    "static/js/runtime-main.bcefc6d4.js",
+    "static/js/2.79373781.chunk.js",
+    "static/css/main.d012b061.chunk.css",
+    "static/js/main.e4a49a22.chunk.js"
   ]
 }
