@@ -7,9 +7,9 @@ import { FaTimesCircle } from "react-icons/fa";
 // turno = 0
 
 const Square = () => {
-  const [icon, setIcon] = useState('x');
+  const [icon, setIcon] = useState('O');
 
-  const handleChange = (icon) => {}
+  // const handleChange = (icon) => {}
   //   if(icon == ''){
   //     setIcon(`${'X'}`)
   //   }else if (setIcon == 'X'){
@@ -24,7 +24,7 @@ const Square = () => {
   // turno+=1;
    
   return(
-    <div className='square'>
+    <div className='square' onClick={() => {setIcon(`${'X'}`)}}>
     {icon}
 
     </div>

@@ -12,6 +12,14 @@
   font-family: 'Paytone One', sans-serif;
   background-color: #8EA604;
   font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.btn-start:hover{
+  background-color:#E55812;
+  color: aliceblue;
+  border: #E55812;
+
 }
 
 .container-btn-start{
@@ -19,4 +27,15 @@
   flex-direction: column;
   align-items: center;
   align-content: center;
+  background-color: bisque;
+  height: 20rem;
+  width: 70%;
+  border-radius: 20px;
+}
+
+.container-rules{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
 }
