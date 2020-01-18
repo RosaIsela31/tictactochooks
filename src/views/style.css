@@ -6,18 +6,19 @@
 }
 
 .btn-start{
-  height: 4rem;
-  width: 10rem;
+  height: 5rem;
+  width: 12rem;
   border-radius: 10px;
   font-family: 'Paytone One', sans-serif;
   background-color: #8EA604;
-  font-size: 1.5rem;
-  margin-bottom: 2rem;
+  font-size: 2.3rem;
+  margin-bottom: .5rem;
+  color: white;
 }
 
 .btn-start:hover{
   background-color:#E55812;
-  color: aliceblue;
+  color: white;
   border: #E55812;
 
 }
@@ -27,7 +28,7 @@
   flex-direction: column;
   align-items: center;
   align-content: center;
-  background-color: bisque;
+  /* background-color: bisque; */
   height: 20rem;
   width: 70%;
   border-radius: 20px;
